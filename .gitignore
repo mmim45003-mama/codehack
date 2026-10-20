@@ -1,0 +1,8 @@
+proxies.txt
+proxies_validated.txt
+proxies_backup/
+key.txt
+last_run.txt
+__pycache__/
+*.pyc
+*.log
